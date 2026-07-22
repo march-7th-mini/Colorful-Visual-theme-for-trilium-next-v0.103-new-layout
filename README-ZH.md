@@ -1,6 +1,6 @@
-# 🎨 Trilium Next v0.103.0 现代新布局主题 — 彩色视觉增强包
+# 🎨 TriliumNext 现代新布局主题 — 彩色视觉增强包
 
-> **适配版本:** Trilium Next **v0.103.0**
+> **适配版本:** Trilium Next **v0.103.0**之后版本
 > **作者:** [march-7th-mini (小三月)](https://github.com/march-7th-mini)
 > **AI 协助:** [AstrBot](https://github.com/AstrBotDevs/AstrBot)
 > **许可证:** [MIT](LICENSE)
