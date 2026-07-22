@@ -3,7 +3,7 @@
 > **适配版本:** Trilium Next **v0.103.0**之后版本
 > **作者:** [march-7th-mini (小三月)](https://github.com/march-7th-mini)
 > **AI 协助:** [AstrBot](https://github.com/AstrBotDevs/AstrBot)
-> **许可证:** [MIT](LICENSE)
+> **许可证:** [AGPL-3.0](LICENSE)
 
 ---
 
