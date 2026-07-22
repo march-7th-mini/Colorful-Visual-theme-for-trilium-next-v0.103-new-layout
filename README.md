@@ -21,7 +21,7 @@
 > **Compatible with:** Trilium Next **v0.103.0**
 > **Author:** [march-7th-mini](https://github.com/march-7th-mini)
 > **AI Assistant:** [AstrBot](https://github.com/AstrBotDevs/AstrBot)
-> **License:** [MIT](LICENSE)
+> **License:** [AGPL-3.0](LICENSE)
 
 ---
 
