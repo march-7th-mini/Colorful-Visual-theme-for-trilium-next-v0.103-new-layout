@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🎨 Colorful Visual Theme for Trilium Next v0.103 New Layout</h1>
+  <h1 align="center">🎨 Colorful Tone Theme for TriliumNext New Layout</h1>
 </p>
 
 <p align="center">
